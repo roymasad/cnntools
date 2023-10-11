@@ -9,6 +9,8 @@ Train and test with cli (tooling lib placed in cnntools folder)
 Cat Dog Dataset included from Kaggle 
 https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset/data
 
+![](screenshot.png)
+
 #Main Module
 
 main.py, config.py, and the neural tensor processing files in **cnntools** folder, using Pytorch
