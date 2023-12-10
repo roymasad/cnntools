@@ -36,3 +36,5 @@ Default password to upload the form image is 'pass123' (change it if deployed on
 * matplotlib
 * torchvision
 * tqdm
+
+For testing use PyTest
